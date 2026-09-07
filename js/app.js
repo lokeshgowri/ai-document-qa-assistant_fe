@@ -1,6 +1,6 @@
 console.log("🚀 APP.JS LOADED");
 
-const API_BASE_URL = "https://gui-coordinated-reduction-phrases.trycloudflare.com";
+const API_BASE_URL = "https://letting-karaoke-arms-played.trycloudflare.com";
 
 // ==========================================
 // HTML ELEMENTS
