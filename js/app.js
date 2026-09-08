@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://ai-document-assistant-nu.vercel.app/"; // Update this to your backend API URL
+const API_BASE_URL = "https://ai-document-assistant-nu.vercel.app"; // Update this to your backend API URL
 
 // ========================================
 // STATE
