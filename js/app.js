@@ -39,7 +39,7 @@ const chatTitle =
 
 async function apiRequest(endpoint, options = {}) {
     const response = await fetch(
-        `${API_BASE_URL}${endpoint}`,
+        `${API_BASE_URL}/${endpoint}`,
         options
     );
 
