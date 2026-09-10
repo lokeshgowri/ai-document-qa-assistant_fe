@@ -1,4 +1,4 @@
-const API_BASE_URL = "ai-document-assistant-nu.vercel.app";
+const API_BASE_URL = "https://ai-document-assistant-nu.vercel.app";
 
 
 // ========================================
